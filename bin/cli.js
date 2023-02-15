@@ -132,6 +132,9 @@ const TRANSFORMER_INQUIRER_CHOICES = [
   {
     name: 'class: Convert React.createClass(...) calls to ES6 classes',
     value: 'class'
+  }, {
+    name: 'await-user-event: await all userEvents',
+    value: 'await-user-event'
   },
   {
     name:
