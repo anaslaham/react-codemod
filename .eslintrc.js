@@ -8,7 +8,7 @@ module.exports = {
   ],
 
   rules: {
-    'no-use-before-define': 4,
+    'no-use-before-define': 0,
     'max-len': 'off'
   },
 };
